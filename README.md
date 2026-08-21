@@ -75,7 +75,7 @@ int main()
 
 ## Output:
 
-
+![Image](639293588-3ca32511-980a-4676-94d6-4612b6a364b2.png)
 
 ## Result:
   The program is executed successfully
